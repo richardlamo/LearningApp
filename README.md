@@ -1,1 +1,1 @@
-# LearngingApp
+# LearningApp
